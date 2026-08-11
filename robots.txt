@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-sx52ei.date-me.pro/sitemap.xml
